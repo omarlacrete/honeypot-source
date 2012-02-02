@@ -1,5 +1,10 @@
 #!/usr/bin/ruby
 
+
+# Part of my honeypot.jayscott.co.uk project. 
+# Jay Scott <jay@jayscott.co.uk>
+
+
 require 'rubygems'
 require 'mysql'  
 

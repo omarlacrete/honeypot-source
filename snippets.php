@@ -1,6 +1,9 @@
 <?
 
 /*
+ * Part of my honeypot.jayscott.co.uk project. 
+ * Jay Scott <jay@jayscott.co.uk>
+ * 
  * Various code snippets I used in pages through-out the project, didn't think
  * there was much point in displaying all of the HTML etc.
  */

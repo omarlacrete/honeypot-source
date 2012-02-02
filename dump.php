@@ -1,6 +1,9 @@
 <?php
 
 /* 
+ * Part of my honeypot.jayscott.co.uk project. 
+ * Jay Scott <jay@jayscott.co.uk>
+ * 
  * Script that I ran on the cron to dump the .log files into a directory for
  * ajax-term to read. 
  * 

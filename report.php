@@ -1,6 +1,8 @@
 <?php
 
 /*
+ * Part of my honeypot.jayscott.co.uk project. 
+ * Jay Scott <jay@jayscott.co.uk>
  * 
  * Gets the IP address from the kippo DB and reports the IP for abuse if certain 
  * conditions are met. Then saves the information to a 'report' table for 

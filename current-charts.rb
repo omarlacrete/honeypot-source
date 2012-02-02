@@ -1,5 +1,8 @@
 #!/usr/bin/ruby
 #
+# Part of my honeypot.jayscott.co.uk project. 
+# Jay Scott <jay@jayscott.co.uk>
+#
 # Generates the current graph. 
 # 
 # gem install gruff
