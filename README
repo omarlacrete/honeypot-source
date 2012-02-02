@@ -2,10 +2,19 @@
 This is the source code I used for my honeypot project. A lot of it is hacked 
 together but hopefully someone will find it useful!
 
+To ge the Ruby scripts to work you will need to install mysql and gruff gems
+
+gem install mysql
+gem install gruff
+
+The script to report an IP address uses PEAR mail but this is actually not 
+needed, I only used it so I could send mail via gmail. You can simply change 
+this to PHP's mail() function.  
 
 # blacklist.rb 
 
-Generates list of IP's that have been carrying out SSH attacks
+Generates list of IP's that have been carrying out SSH attacks useful for 
+creating blacklists for IPTables, IOS etc 
 
 # report.php
 
