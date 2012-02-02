@@ -1,0 +1,29 @@
+
+This is the source code I used for my honeypot project. A lot of it is hacked 
+together but hopefully someone will find it useful!
+
+
+# blacklist.rb 
+
+Generates list of IP's that have been carrying out SSH attacks
+
+# report.php
+
+Gets the IP address from the kippo DB and reports the IP for abuse if certain 
+conditions are met. Then saves the information to a 'report' table for 
+displaying the information at a later date.
+
+# dump.php
+
+This was used to output the UML blobs in the Kippo DB to a file to be read by
+ajaxterm. 
+
+
+# current-charts.rb
+
+Ruby script I used to create the graphs for the front page. 
+
+# snippets.php
+
+This is just wee snippets of code I used through-out my code that I think might
+be useful to some people :-) 
